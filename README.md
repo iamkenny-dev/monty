@@ -191,7 +191,7 @@ $ cd Betty; ./install.sh
 
 ## :blue_book: Authors
 
-* **Iniobong Effiong
+* **Adelakun kehinde
 
 
 ## :mag: License
